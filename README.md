@@ -2,7 +2,7 @@
 
 Welcome to my repository containing computational projects, simulations, and data analyses developed during my third year of Physics. This portfolio showcases the intersection of advanced physics, applied mathematics, and modern machine learning techniques.
 
-## 📂 Repository Structure
+## Repository Structure
 
 The code is organized into distinct directories based on core physics disciplines and data science methodologies:
 
